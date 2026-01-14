@@ -122,7 +122,7 @@ sym_layer {
 media_layer {
     label = "Media";
     bindings = <
- &trans     &trans     &trans     &trans      &trans         &trans         &trans           &trans         &trans      &trans     &trans        &trans
+ &studio_unlock     &trans     &trans     &trans      &trans         &trans         &trans           &trans         &trans      &trans     &trans        &trans
  &trans     &trans     &trans     &trans      &trans         &trans         &trans           &trans         &trans      &trans     &trans        &trans
  &trans     &bt BT(0)  &bt BT(1)  &bt BT(2)   &bt BT(3)      &bt BT(4)      &trans           &trans         &trans      &trans     &trans        &trans
  &trans     &trans     &trans     &trans      &trans                 &trans                  &trans         &kp C_NEXT  &kp C_VOL_DN &kp C_VOL_UP &kp C_PLAY
